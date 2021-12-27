@@ -1,3 +1,5 @@
+@media (max-width:1440px) and (min-width:760px){
+
 a:  {
 	color: cyan;
 	text-decoration: none;
@@ -99,3 +101,5 @@ display: flex;
 	text-align: right;
 	
 }
+	@media (min-width: 760px)
+		}
